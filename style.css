@@ -1,0 +1,26 @@
+
+ .banner{
+    max-width: 80%;
+    margin-left: 18%;
+ }
+
+//banner style
+
+.banner-img{
+    position: relative;
+}
+.banner-text{
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    text-align: center;
+    color: white;
+    font-weight: 800%;
+    font-size: 30px;
+}
+//holiday-deal
+
+.holiday-deal-title{
+    text-align: center;
+    font-size: 30px;
+}
